@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Heebo&display=swap');
+
+body{
+	background: #ccc;
+}
+
+header{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background: #fc566c;
+	text-align: center;
+}
+
+.log{
+	margin: 1% 0 1% 0;
+}
+
+.general{
+	position: relative;
+	text-align: center;
+	font-family: Heebo;
+}
+
+.general a{
+	text-decoration: none;
+	color:#fff;
+	border-radius: 20px;
+	padding: 1.5% 8%;
+	min-width: 
+}
+
+.icon{
+position: absolute;
+left:225px; top: -50px;
+
+z-index: 0;
+}
+
+.block{
+	min-width: 500px;
+	display: inline-block;
+  	position: relative;
+	color: #444444;
+	border-radius: 15px;
+	margin-top: 5%;
+	padding: 3% 2% 2% 2%;
+}
+
+.white{
+	background: #fff;
+}
+
+.green{
+background: #00c27c;
+color:#fff;
+}
+
+.gray{
+	background: #676777;
+}
+
+.blue{
+	background: #00acc9;
+	margin-bottom: 5%;
+}
+
+footer{
+position: absolute;
+left: 0;
+width: 100%;
+flex: 0 1 auto;
+background: #3b3b3b;
+text-align: center;
+}
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
